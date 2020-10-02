@@ -182,3 +182,5 @@ SELECT * FROM users;
 ```
 
 ![image](https://github.com/jagsm/learning-with-Astra/blob/master/Screenshot%202020-10-02%20at%2017.07.56.png)
+
+![image](https://github.com/jagsm/learning-with-Astra/blob/master/Screenshot%202020-10-02%20at%2017.30.54.png)
