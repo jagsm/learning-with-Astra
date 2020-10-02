@@ -115,9 +115,8 @@ Insert into  orders_by_user (order_num,user_id,year,date) values (Now(),'user2',
 Insert  into revenue_per_month (city,year,month,user_id,order_num,amount) values ('London',2020,02,'user1',Now(),10.00);
 Insert  into revenue_per_month (city,year,month,user_id,order_num,amount) values ('London',2020,02,'user2',Now(),5.00);
 ```
-```
 
-## read teh data from tables ##
+## Read the data from tables ##
 
 ```
 SELECT * FROM users;
@@ -153,8 +152,8 @@ order_num                            | date | user_id | year
  London | 2020 |     2 |   user1 | a1ca1d80-04c8-11eb-bd49-e5ed22f5e99b |     10
  London | 2020 |     2 |   user2 | b4e13340-04c8-11eb-bd49-e5ed22f5e99b |      5
  
- 
-Include some screenshots!
+ ```
+
 
 ## Experiment with CRUD and show the outputs: ##
 
