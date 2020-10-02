@@ -181,5 +181,4 @@ SELECT * FROM users;
    user1 | London Bridge | West Minister | London | 2020-10-02 15:43:13.253000+0000 |  Datastax1 |    Astra1 | 2020-10-02 15:43:13.253000+0000 | password1 | +441233445678
 ```
 
-
-https://github.com/jagsm/learning-with-Astra/blob/master/Screenshot%202020-10-02%20at%2017.07.56.png
+![image](https://github.com/jagsm/learning-with-Astra/blob/master/Screenshot%202020-10-02%20at%2017.07.56.png)
